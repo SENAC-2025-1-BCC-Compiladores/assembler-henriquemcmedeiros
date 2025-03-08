@@ -6,7 +6,7 @@ import (
 	"os"
 	"strconv"
 	"strings"
-	"FullGPT/lexer"
+	"assembler/lexer"
 )
 
 const (
